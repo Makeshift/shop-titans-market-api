@@ -128,6 +128,8 @@ app.get('/', (req, res) => {
     <li><a href="https://stprom.makeshift.ninja/">https://stprom.makeshift.ninja</a> - The Prometheus database containing historical data</li>
     <li><a href="https://stgraphs.makeshift.ninja/">https://stgraphs.makeshift.ninja/</a> - Graphs from the Prometheus database</li>
     <li><a href="https://github.com/Makeshift/shop_titans_dashboards">Makeshift/shop_titans_dashboards</a> - This is how I generate all the Grafana dashboards</li>
+    <li><a href="https://github.com/Makeshift/shop-titans-market-api">Makeshift/shop-titans-market-api</a> - This is the code for this API</li>
+    <li><a href="https://github.com/Makeshift/shoptitans_scraper">Makeshift/shoptitans_scraper</a> - This is the code for the scraper that collects market data. It's private because Kabam asked me to make it private, but I'm super proud of it still.</li>
   </ul>
     `);
 });
